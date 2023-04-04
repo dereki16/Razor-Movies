@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'RazorPagesMovie20230326084758'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06EDBC48DE344667B59427331D845C67 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_670BF0F0D612452ABF69190DF0185460 }}
           package: .
